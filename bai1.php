@@ -1,4 +1,16 @@
 <?php
+// PHẦN TRẮC NGHIỆM
+
+// Câu 1: Đáp án: 5
+
+// Câu 2: Đáp án: B. 20
+
+// Câu 3: Đáp án: D. $
+
+// Câu 4: Đáp án: A. echo()
+
+// Câu 5: Đáp án: A
+
 
 // Hàm kiểm tra số nguyên tố
 function isPrime($n)
